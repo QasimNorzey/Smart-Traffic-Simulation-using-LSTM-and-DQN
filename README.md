@@ -1,7 +1,7 @@
 # Smart-Traffic-Simulation-using-LSTM-and-DQN
 ## System Overview
 ![System Architecture](https://github.com/USERNAME/smart-traffic-simulation/blob/main/assets/images/system_architecture.png?raw=true)
-
+https://github.com/QasimNorzey/Smart-Traffic-Simulation-using-LSTM-and-DQN/blob/main/system_architecture.png
 ![Smart Traffic Management System Architecture](assets/images/system_architecture.png)
 
 *Figure 1: Overall architecture of the proposed smart traffic management system integrating LSTM-based traffic prediction with DQN-based adaptive signal control.*
