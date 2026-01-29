@@ -6,13 +6,7 @@
 *Figure 1: Overall architecture of the proposed smart traffic management system integrating LSTM-based traffic prediction with DQN-based adaptive signal control.*
 
 This repository contains the implementation of a traffic congestion modeling and simulation system based on artificial intelligence techniques.
-<p align="center">
-  <img src="assets/images/system_architecture.png" alt="Smart Traffic Management Architecture" width="800"/>
-</p>
 
-<p align="center">
-  <em>Figure 1: Overall architecture of the proposed LSTM–DQN-based traffic management system.</em>
-</p>
 ## System Workflow
 
 The proposed system follows the workflow illustrated in Figure 1. 
