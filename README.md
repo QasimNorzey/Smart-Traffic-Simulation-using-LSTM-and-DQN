@@ -1,5 +1,6 @@
 # Smart-Traffic-Simulation-using-LSTM-and-DQN
 ## System Overview
+![System Architecture](https://github.com/USERNAME/smart-traffic-simulation/blob/main/assets/images/system_architecture.png?raw=true)
 
 ![Smart Traffic Management System Architecture](assets/images/system_architecture.png)
 
